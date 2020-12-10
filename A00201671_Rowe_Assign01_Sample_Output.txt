@@ -1,0 +1,72 @@
+
+// Cameron  Rowe, BCIT A00201671
+// Comp 2511
+// Sep 21, 2020
+
+
+Sample output 1
+===============
+
+Enter the gallons used ( -1.0 to end): 12.8
+Enter the miles driven: 287
+The miles / gallon for this tank was 22.421875
+
+Enter the gallons used ( -1.0 to end): 10.3
+Enter the miles driven: 200
+The miles / gallon for this tank was 19.417476
+
+Enter the gallons used ( -1.0 to end): 5
+Enter the miles driven: 120
+The miles / gallon for this tank was 24.000000
+
+Enter the gallons used ( -1.0 to end): -1
+
+The overall average miles/gallon was 21.601423
+
+That's all folks - press any key to exit
+C:\Users\Cameron\source\repos\2511-InClass\A00201671_Rowe_Assign01\Debug\A00201671_Rowe_Assign01.exe (process 13988) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+
+
+Sample output 2
+===============
+
+Enter the gallons used ( -1.0 to end): -1
+
+The overall average miles could not be computed ;-(
+
+That's all folks - press any key to exit
+C:\Users\Cameron\source\repos\2511-InClass\A00201671_Rowe_Assign01\Debug\A00201671_Rowe_Assign01.exe (process 10472) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+
+Sample output 3
+===============
+
+Enter the gallons used ( -1.0 to end): -.5
+You have entered an invalid value for gallons, try again: -1.5
+You have entered an invalid value for gallons, try again: 0
+You have entered an invalid value for gallons, try again: 10
+Enter the miles driven: -.5
+You have entered an invalid value for miles, try again: 0
+You have entered an invalid value for miles, try again: 100
+The miles / gallon for this tank was 10.000000
+
+Enter the gallons used ( -1.0 to end): -.5
+You have entered an invalid value for gallons, try again: -1.5
+You have entered an invalid value for gallons, try again: 0
+You have entered an invalid value for gallons, try again: 20
+Enter the miles driven: 250
+The miles / gallon for this tank was 12.500000
+
+Enter the gallons used ( -1.0 to end): -1
+
+The overall average miles/gallon was 11.666667
+
+That's all folks - press any key to exit
+C:\Users\Cameron\source\repos\2511-InClass\A00201671_Rowe_Assign01\Debug\A00201671_Rowe_Assign01.exe (process 4412) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
